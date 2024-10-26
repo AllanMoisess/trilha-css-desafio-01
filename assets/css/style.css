@@ -123,6 +123,10 @@ h2 {
     text-align: left;
 }
 
+#professional-challenges{
+    width: 800px;
+}
+
 footer{
     padding: 60px 0;
     background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
