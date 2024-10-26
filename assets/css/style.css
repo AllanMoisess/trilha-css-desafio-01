@@ -104,6 +104,10 @@ h2 {
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, 0.719);
 }
 
+.module span{
+    color: #33A8DB;
+}
+
 #transform-world{
     height: 560px;
     background-size: cover;
